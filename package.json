@@ -1,5 +1,6 @@
 {
   "name": "journeybot",
+  "engine": { "node" : "6.9.1" } },
   "version": "1.0.0",
   "description": "journeybot guides you on your bush walk",
   "main": "index.js",
