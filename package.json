@@ -1,0 +1,12 @@
+{
+  "name": "journeybot",
+  "version": "1.0.0",
+  "description": "journeybot guides you on your bush walk",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:simontegg/journeybot.git",
+    "type": "git"
+  },
+  "author": "simontegg <simon@enspiral.com>",
+  "license": "AGPL"
+}
